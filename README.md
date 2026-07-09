@@ -37,7 +37,7 @@
 ### 📂 Featured Projects
 
 **🗺️ 1. BK'sMap - Nền tảng Bản đồ Tìm kiếm Phòng trọ**
-*   **Vai trò:** Project Leader & Fullstack Developer.
+*   **Vai trò:** Project Leader.
 *   **Mô tả:** Nền tảng web tích hợp bản đồ tương tác giúp sinh viên tìm chỗ ở nhanh chóng. Hệ thống được tối ưu hóa hiệu năng tốt và có luồng triển khai tự động (Automation).
 *   **Liên kết:** [Live Demo](https://bksmap-tvsv-dut.id.vn/) | [GitHub Repository](https://github.com/dotrandannguyen/BKMAP)
 *   **🎨 Frontend:** ReactJS, TailwindCSS, Vite.
