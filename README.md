@@ -37,7 +37,7 @@
 ### 📂 Featured Projects
 
 **🗺️ 1. BK'sMap - Nền tảng Bản đồ Tìm kiếm Phòng trọ**
-*   **Vai trò:** Project Leader.
+*   **Vai trò:** Team Leader.
 *   **Mô tả:** Nền tảng web tích hợp bản đồ tương tác giúp sinh viên tìm chỗ ở nhanh chóng. Hệ thống được tối ưu hóa hiệu năng tốt và có luồng triển khai tự động (Automation).
 *   **Liên kết:** [Live Demo](https://bksmap-tvsv-dut.id.vn/) | [GitHub Repository](https://github.com/dotrandannguyen/BKMAP)
 *   **🎨 Frontend:** ReactJS, TailwindCSS, Vite.
@@ -48,6 +48,6 @@
 *   **Vai trò:** Team Leader.
 *   **Mô tả:** Ứng dụng quản lý không gian làm việc đa nền tảng, cho phép gom nhóm và quản lý dữ liệu từ nhiều dịch vụ SaaS (Gmail, GitHub, Slack) tại một nơi duy nhất.
 *   **Liên kết:** [GitHub Repository](https://github.com/dotrandannguyen/PBL3)
-*   **🎨 Frontend:** ReactJS, Vite.
+*   **🎨 Frontend:** ReactJS, TailwindCSS, Vite.
 *   **⚙️ Backend & Database:** Node.js, Express, Prisma ORM, PostgreSQL.
 *   **🚀 DevOps & Deployment:** Vercel (Frontend), Render / Railway (Backend).
